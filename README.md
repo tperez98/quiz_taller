@@ -1,1 +1,1 @@
-# quiz_taller
+# quiz-taller
